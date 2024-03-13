@@ -1,6 +1,6 @@
-# UnityRoom
+# Backend
 
-• Creating an innovative project to connect people for interaction.
+• Learning backend with Node.js and Express.js and MongoDb.
 
 • Planning to apply newfound knowledge in project creation.
 
